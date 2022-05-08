@@ -15,7 +15,7 @@
 - als sich im Verlauf der Stunde hat sich herausgestellt, dass ich mich geirrt
 - ich habe den Raum fluchartig verlassen 
 - ich habe angerufen, um mich nach dem Grund für deine Abwesenheit zu erkündigen
-- diese Frage stelle ich mich in regelmässigen Abständen
+- diese Frage stelle ich mir in regelmässigen Abständen
 - Bewegung würde dir guttun
 - widergutmachtenden Fehler
 - ich befinde mich in Sackgasse sowohl beruflich als auch private
@@ -27,7 +27,7 @@
 - Der tag ruckt nähe
 - ich habe kein Einsehen dafür
 - ein Ungluck kommt selten alleine
-- hältest du es nicht für nötig mich darüber zu informuieren
+- hältest du es nicht für nötig mich darüber zu informieren
 - es ist schon ausgedient
 - du kannst einen job handumdrehen finden
 - initiative ergreifen 
@@ -48,6 +48,7 @@
 - ich lasse mich nicht von dir verunsichert
 - das rangiert ganz unten/oben
 - ich habe nichts übersehen
+- das Problem lässt sich nicht übersehen
 - der Brief ist woanders gelandet
 - du wirst in der Situation hisauswachsen
 - ich bin zu dem Ergebniss gekommen
@@ -87,6 +88,7 @@
 - toleranz gegenüber fehler war nicht seine stärke
 - ich halte eine entschedlung für angebracht
 - ich habe den bezug zum realen leben verloren
+- bezüglich deines Antrags muss ich leider 
 - er hat es mir verübelt dass 
 - die voräte gehen schnell zu ende
 - ich habe vorsichtshalber es mitgebracht
@@ -132,7 +134,8 @@
 - die Tasche
 - die Uhr
 - ich habe heute frei
-- es steht auf dem Karte, dem Formular 
+- es steht auf dem Ticket, dem Formular 
+- es steht auf der Karte
 - Einzelzimmer, Doppelzimmer
 - das Frühstück kostet extra
 - das Verkehrsmittel
@@ -168,6 +171,7 @@
 - man entwicklet sich eine Art Routine 
 - er wirkt schwerfällig aber er ist gut 
 - im Laufe der Zeit wirst du es merken  
+- das hast du behalten
 - auf alles was ich gesagt habe, hatte er eine gemeine Antwort
 - ich lass dich wissen wenn ich etwas brauche
 - ich glaube nicht dass es in absehbarer zukünft passieren werden
@@ -181,7 +185,7 @@
 - am Morgen, Wochenende, Samstag, Nachmittag
 - kann ich bitte die SpeiseKarte haben
 - der Teller, der Topf, der Löffel, die Gabel, die Pfanne, das Messer 
-- ich war drauf und dran dass zu machen
+- ich war drauf und dran das zu machen
 - das werde ich lieber auslassen
 - erzähl mir von dich
 - was kann schlimmstenfalls passieren 
@@ -194,7 +198,7 @@
 	- die Jacke, Hose, Socken, Schuhe, Mütze, Unterwasche
 	- der Mantel,
 - hast du das T-shirt eine Nummer kleiner
-- hast du schönes Fotos gemachen
+- hast du schönes Fotos gemacht
 - näturlich das kann man über internet finden 
 - du hattest sehr schickes Hemd
 - ich will keinen Widerspruch einlegen 
@@ -204,7 +208,7 @@
 - ich muss einen Umweg nehmen  
 - danach het er Pech gehabt 
 - ich muss er kontrollieren
-- alles is t schiefgegangen
+- alles is schiefgegangen
 - der Tag hatte ein gutes Ende
 - wo gibt es Probleme
 - der erste Mai, am ersten Mai
@@ -240,14 +244,94 @@
 - aus Gesundheitlichen Gründen bin ich nicht da
 - je eher umso besser 
 - ich frage nach, was genau passiert ist
-- ich informiere dir über die genaue Uhrzeit
+- ich informiere dich über die genaue Uhrzeit
 - vielen Danke für ihr Verständis
 - ich habe mich intensiv mit diesem Thema beschäftigt 
 - ich kann Druck auf ihn ausüben
-- ich habe mich drüber sehr start geärgert
+- ich habe mich drüber sehr stark geärgert
 - Die Anzahl der mitarbeit bleiben im wesentlich die gleiche variiert aber nach jahrzeit
 - du nimmst viel auf 
 - es ist von Schule zu Schüle unterschiedlich
+- das dient zur Beschreibung von Zuständen und Vorgängen in der Zukünft, Vergangenheit und Gegenwart
+- Zeitformen
+	- der Fernsehen läuft
+	- ich habe dich angerufen
+	- ich werde im Stau sein
+	- ich werde eine Lösung bis morgen gefunden haben 
+- ich halte dich fest
+- er will einfach nicht mitmachen 
+- das macht viel aus 
+- ich habe sie umarmt 
+- ich habe überall nach dem schlüssel duchsucht 
+- ich umgebe mich mit interessanten Leute 
+- am liebsten umfähre ich die Städt 
+- ich habe dir das Geld auf dein Konto uberwiesen
+- deine Gefühle spieglt sich in deinem Gesicht wider 
+- ich umgehe eine Konfrontationen mit dem Chef
+- wir gehen zu einem Thema über
+- ich übergehe diesen Punkt
+- das Managment die Mitarbeite in die Entscheidungsprozesse einbeziehen
+- ich muss den Termin auf Montag verlegen
+- ich habe mich verschrieben
+- ich sehe mich nach einem Buch um
+- ich muss mich erste in das Program einarbeitern
+- wir haben die Sitzung um 10 Minuten überzogen   
+- es bleibt mir nichts anderes übriges als fliessend zu arbeiten
+- ich habe den grossten Teil der Arbeit gemacht, alles Übrige schaffe ich morgen 
+- die übrigen Aufgabe machst du
+- der Regen hat ein übriges getan
+- wenn du Zeit übrig hast, kannst du 
+- von mir wird verlangt dass
+- es ist empefehlenswert
+- es ist erstrebenswert
+- du kannst dein Anliegen mit ihm besprechen
+- unsere interne Analyse hat ergeben dass 
+- das gilt zunächst für sechs Monate
+- zu diesem Thema kann ich zunächst keine definitive Aussage machen
+- das dürfte gestern mit ihm geklärt worden sein
+- das kannst du in Anpruch nehmen 
+- wir müssen einige Massnahmen ergreifen 
+- mein Vorschlag hört sich gut an 
+- darf ich dir einen Vorschlag machen 
+- ich will mich nicht aufregen
+- ich antworte dir auf deine E-mail
+- du beantwortest meine frage nicht
+- Mir is aufgefallen, fällt dir nichts an ihm auf
+- mir fällt gerade ein dass
+- ich kann dir abraten/zuraten
+- ich habe versucht ihm zuzureden, 
+- ich besuche dich am Wochenende
+- ich bin ihm auf einer Party begegnet
+- korrigiere mich bitte wenn ich mich irre
+- ich muss mir etwas anderes ausdenken
+- ich nehme mir vor 
+- ich wollte einen guten Eindruck hinterlassen 
+- er ist seine Frau hinergegangen 
+- meine Wohnung ist verdrect
+- ich muss das Essen auftauen
+- die stelle ist bereits vergeben
+- alle Versuche sind fehlgeshlagen, einen ernueten Versuch unterlassen wir 
+- ich wollte nicht an der kasse anstehen 
+- ich habe das Projekt betreut
+- man sollte es jeden zweiten Tag machen
+- ein kleiner Tipp
+- am besten ignorieren
+- ein Teil kann durch -- ersetzt werden
+-ich werde mich für dich einsetzen
+- ich eigene mich für das Projekt
+- so kannst du dich gegen Erkältung abhärten
+- du kannst dich mit ihm daüber aussprechen 
+- an / woran / an wen / daran
+	- akk:
+		- ich glaube an dich
+		- ich wende mich an dich
+		- ich muss mich anpassen
+		- ich muss mich daran gewöhnen
+	- Dativ:
+		- ich zweifele an dir nich 
+		- an einem Kabine fehlt die Tür
+		- ich arbeite an einem Projekt
+		- ich liegt an der Hitze 
 
 
 
@@ -273,5 +357,10 @@
 
 
 
+Es ist es eine tolle Chance, für einen international aufgestellten 
+Konzern mit rund 850 Mitarbeiter zu arbeiten. Basler AG hat sehr 
+interessante Produkte z. B. 3D-Produkte, Kameras.
 
-
+Ich finde den Job sehr interessant, weil ich die Chance haben will mein 
+Kenntnisse in Python und C++ zu vertiefen, und mit den zwei Kollegen
+in dem Team das Framework weiterentwickeln werde. 
