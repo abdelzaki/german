@@ -223,7 +223,7 @@
 - das ist sehr informativ
 - ich will Urlaub am Wasser
 - ich bin engagiert 
-- ich muss zum Bahnhof, zum Chef, zur Polizei, zur Arbeit 
+- ich muss zum Bahnhof, zum Chef, zur Polizei, zur Arbeit, zur Bushaltstelle 
 - ich bin am Meer
 - wir sind vollständig 
 - ich kann nicht backen
@@ -317,7 +317,7 @@
 - ein kleiner Tipp
 - am besten ignorieren
 - ein Teil kann durch -- ersetzt werden
--ich werde mich für dich einsetzen
+- ich werde mich für dich einsetzen
 - ich eigene mich für das Projekt
 - so kannst du dich gegen Erkältung abhärten
 - du kannst dich mit ihm daüber aussprechen 
