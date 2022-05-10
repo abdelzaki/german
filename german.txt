@@ -258,6 +258,15 @@
 	- ich habe dich angerufen
 	- ich werde im Stau sein
 	- ich werde eine Lösung bis morgen gefunden haben 
+	- mit model Verben:
+		- Er kann gut kochen 		-> er muss untersucht werden
+		- Er könnte gut kochen 		-> er müsste untersucht werden
+		- Er wird gut kochen können -> er wird untersucht werde müssen /  
+		- er hat gut kochen können	-> das dürfte abgeschlossen worden sein 
+		- er könnte da sein
+		- er könnte da gewesen sein
+
+
 - ich halte dich fest
 - er will einfach nicht mitmachen 
 - das macht viel aus 
@@ -406,7 +415,11 @@ bei / bei wem
 - er kann einfach seinen Fehler nicht einsehen
 - ich kann mich durchsetzen
 - sie hat mich versetzt
-- 
+- er neigt zum Aberglauben
+- es steht im Zusammenhang mit 
+- es gibt keinen Zusammenhang zwischen
+- das ist ein Zeitraum von Jahren
+- die Kluft
 
 
 
