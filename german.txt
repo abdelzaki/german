@@ -265,6 +265,13 @@
 		- er hat gut kochen können	-> das dürfte abgeschlossen worden sein 
 		- er könnte da sein
 		- er könnte da gewesen sein
+	passive:
+		- er wird untersuchte werden
+		- er wurde untersucht
+		- er ist untersucht worden
+		- er wird untersucht werden
+
+- ich weiss nicht wann er untersucht werden muss	
 
 
 - ich halte dich fest
@@ -373,18 +380,24 @@ bei / bei wem
 		- ich hätte gerne einen Tee
 	- auffordern:
 		- würdest du das Fenster aufmachen
+	- vorschlag:
+		- wir sollten es anders machen
 	- Meinung:
 		- ich würde mir das noch einmal überlegen
 	- Vergangheit:
-		- es wäre besser gewesen, wenn du gefrägt hattest
+		- es wäre besser gewesen, wenn du gefrägt hättest
 		- das hätte ich wissen sollen
-		- ich söllte vorher fragen müssen
+		- ich hätte vorher fragen müssen
 		- das hätte nicht passiere dürfen
 	- irreal:
 		- es tut so, als würde er mich seit Ewigkeit kennen
 		- es tut so, als ob nichts passiert wäre
-		- du siehst als, als ob du krank wärst
+		- du siehst aus,als ob du krank wärst
+		- wenn ich du wäre, würde ich das nicht so machen
+		- wenn ich du gewesen wäre, hätte ich das anders gemacht  
+		- wenn du kommen würdest, würde ich es machen
 
+- es fängt in ein paar Minuten an / hast du eine Minute Zeit für mich / das kommt auf die Minute an
 - es ist Störungsfrei
 - es ist fünktionstüchtig
 - ich werde ihm nicht den guten willen abstreiten
@@ -428,11 +441,27 @@ bei / bei wem
 - der Fehler lässt sich lösen
 - die Sache wird sich aufklären
 - ich fühle mich nicht besonders gut 
+- ich will meine Kenntnis vertiefen 
+- ich stelle fest, dass
+- er ist immer elegant angezogen egal wie die Umstände sind 
+- ich muss den Termin absagen
+- ich acht ihn seiner Ehrlichkeit 
+- ich bewundere ihn seiner Ehrlichkeit
+- ich wundere mich warum
+- ich wollte ihm ausweichen
+- wir nähern uns der Lösung
+- ich werde dir beistehen
+- ich nehme mich deines Problems an
+- das bedarf Erklärung
+- er hat immer geprahlt 
+- wir beachten die Vorschriften
+- das hat mich viele Stunden geköstet
+- wo / wohin
+	- der Stift liegt auf dem Tisch -> ich liege den Stift auf den Tisch
+	- das steht neben dem Tisch -> ich stelle es neben den Tisch
+	- das bild hängt an der Wand / ich hänge es an die Wand
 
-
-
-
-
+- ich lasse dich nicht hängen / woran hängt es noch den? / das bleibt an mir hängen / es hängt viel an seinem Auto
 
 
 
